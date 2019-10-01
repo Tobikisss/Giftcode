@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Tobikisss/Giftcode
+branches:
+- master
+projects:
+  Giftcode:
+    path: ""
+...
